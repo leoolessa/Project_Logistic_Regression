@@ -75,6 +75,10 @@ Evaluating the model's performance using accuracy score and classification repor
 
 Visualizing the model's predictions and evaluation metrics using plots from matplotlib.
 
+#### Canva Presntation
+[Canva](https://www.canva.com/design/DAGB1TYDXfY/2nHuUL5lkIflLr0OUcxfkw/edit?utm_content=DAGB1TYDXfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 ## Author
 
 - Leonardo Lessa
