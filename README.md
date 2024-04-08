@@ -1,5 +1,9 @@
 # Breast Cancer Detection using Logistic Regression
 
+
+![Cytecare](https://cytecare.com/wp-content/uploads/2020/06/breast-cancer-detection.jpg)
+
+
 ## Introduction
 
 In this project, we explore the process of training a logistic regression model for breast cancer detection. We utilize the Breast Cancer Wisconsin (Diagnostic) dataset, which contains detailed measurements of cell nuclei along with their diagnosis as malignant or benign. Our objective is to train a model capable of predicting the likelihood of a cell being malignant based on its measurements.
@@ -44,7 +48,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 - Leonardo Lessa
 
-## Acknowledgments
-- Dataset source: UCI Machine Learning Repository
-- Image Source: [Cytecare](https://cytecare.com/wp-content/uploads/2020/06/breast-cancer-detection.jpg)
+
 
