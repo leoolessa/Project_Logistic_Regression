@@ -73,7 +73,7 @@ Evaluating the model's performance using accuracy score and classification repor
 
 #### Visualization
 
-Visualizing the model's predictions and evaluation metrics using plots.
+Visualizing the model's predictions and evaluation metrics using plots from matplotlib.
 
 ## Author
 
